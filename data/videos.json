@@ -1,0 +1,1350 @@
+{
+  "videos": [
+    {
+      "video_id": "lK9o5Wu2upU",
+      "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
+      "channel": "COLE MEDIN",
+      "speaker": "Cole Medin",
+      "title": "Pi is INCREDIBLE - Building a Custom Coding Agent Live",
+      "url": "https://www.youtube.com/watch?v=lK9o5Wu2upU",
+      "published": "2026-05-17T03:42:53Z",
+      "updated": "2026-05-17T07:44:12Z",
+      "topics": [
+        "Agents and tool use",
+        "Frontier models",
+        "Coding and software",
+        "LLM foundations"
+      ],
+      "summary": "COLE MEDIN covers Agents and tool use, Frontier models, Coding and software. Transcript signal: And that's kind of the idea of harness engineering is the the harness is actually more important than the model when it comes to getting good results with AI coding assistance. And so PI is great because it really is this minimal agent that allows us to use any model we could possibly dream of.",
+      "summary_points": [
+        {
+          "point": "Highlights agents and tool use as a key LLM theme in the discussion.",
+          "evidence": "And that's kind of the idea of harness engineering is the the harness is actually more important than the model when it comes to getting good results with AI coding assistance."
+        },
+        {
+          "point": "Highlights frontier models as a key LLM theme in the discussion.",
+          "evidence": "These subscriptions that we got really spoiled with up front with Codeex and Anthropic, they're getting worse over time with the model uh output quality and just like how many tokens we get every single week or within those 5 hour limits."
+        },
+        {
+          "point": "Highlights coding and software as a key LLM theme in the discussion.",
+          "evidence": "It's made to be a coding agent that you build on top of instead of taking a really massive bloated tool and trying to retrofit it to how you like to code."
+        },
+        {
+          "point": "Highlights llm foundations as a key LLM theme in the discussion.",
+          "evidence": "And so PI is great because it really is this minimal agent that allows us to use any model we could possibly dream of."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"archon workflow\" (20x), \"the workflow\" (15x), \"cloud code\" (14x), \"coding agent\" (13x). Representative caption lines: \"And that's kind of the idea of harness engineering is the the harness is actually more important than the model when it comes to getting good results with AI coding assistance.\" \"It's made to be a coding agent that you build on top of instead of taking a really massive bloated tool and trying to retrofit it to how you like to code.\"",
+      "creator_positioning": "AI automation, agent building, and practical AI coding workflows.",
+      "llm_landscape_role": "Focuses on applied LLM agents, automations, and production-style AI workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 85741,
+      "transcript_excerpt": "Time to dive into Pi. This is a coding agent. It's been around for a while now, like at least a few months, but I've just started to like really really pay attention to it, especially because of how bad the rate limits have been for other coding agents right now. And so, the idea behind Pi is it is a minimal coding agent. It's made to be a coding agent that you build on top of instead of taking a really massive bloated tool and trying to retrofit it to how you like to code. So the idea here is that we adapt PI to our workflows instead of the other way around. And if you've been following my channel at all, you know that uh this is really in line with my ethos, right? Like I am generally a fan of building your own systems because then you can really take control of it and mold it and customize it to how you like to work. And so a lot of the work that I've been doing with Archon and just g",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:35:17.824181Z"
+    },
+    {
+      "video_id": "NksViNo3n08",
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "channel": "Matthew Berman",
+      "speaker": "Matthew Berman",
+      "title": "anthropic vs. openai",
+      "url": "https://www.youtube.com/watch?v=NksViNo3n08",
+      "published": "2026-05-15T17:51:10Z",
+      "updated": "2026-05-17T00:11:15Z",
+      "topics": [
+        "Frontier models",
+        "Coding and software",
+        "AI business and products",
+        "LLM foundations"
+      ],
+      "summary": "Matthew Berman covers Frontier models, Coding and software, AI business and products. Transcript signal: Um, are you are you a believer that it needs to be an omni model or or or you know I know a lot of people are doing like text to speech speech to text and then kind of a text like a large language model in the middle. It has to process it has it has to be intelligence and voice at the same time which is a different kind of family of model which is probably going to be one of the big headwinds to getting AI to...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: anthropic.",
+          "evidence": "So we're going to be talking about today uh we're going to be talking about OpenAI versus Anthropic specifically their revenue growth specifically their penetration into enterprise and we have a very special guest joining us and I'll introduce him in a second."
+        },
+        {
+          "point": "Expands on the video's stated LLM focus: openai.",
+          "evidence": "Like, you can imagine how that's affecting the the PR look of AI models in general, not just OpenAI."
+        },
+        {
+          "point": "Highlights frontier models as a key LLM theme in the discussion.",
+          "evidence": "value of it being that hey if you want to understand uh how to buy AI because this is such a rapidly changing industry whether you're someone super technical or you're someone who is just on accounting team ideally you'd be informed by some kind of data..."
+        },
+        {
+          "point": "Highlights coding and software as a key LLM theme in the discussion.",
+          "evidence": "So we get to see the model specifically they're using and whether or not they're using a subscription through cloud code or if they're using the APIs, if they're using Opus versus Sonnet versus Gemini Flash."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"the model\" (11x), \"the models\" (9x), \"models are\" (9x), \"source models\" (7x). Representative caption lines: \"value of it being that hey if you want to understand uh how to buy AI because this is such a rapidly changing industry whether you're someone super technical or you're someone who is just on accounting team ideally you'd be informed by some kind of data...\" \"Um, are you are you a believer that it needs to be an omni model or or or you know I know a lot of people are doing like text to speech speech to text and then kind of a text like a large language model in the middle.\"",
+      "creator_positioning": "Hands-on AI tooling, open-source model demos, agent workflows, and product experiments.",
+      "llm_landscape_role": "Shows applied usage of LLM tools and agent/product workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 54714,
+      "transcript_excerpt": "All right, welcome. Welcome. Hello. I'm starting a little bit early, but here we are. I'll wait a few minutes while people roll in. Hello. Let me know where everybody's from. I I love seeing uh people watching from basically the entire world. It's it's uh quite awesome. So we're going to be talking about today uh we're going to be talking about OpenAI versus Anthropic specifically their revenue growth specifically their penetration into enterprise and we have a very special guest joining us and I'll introduce him in a second. Um all right Denmark let's see what's up Denmark. Steve from Scotland. Eric, uh, I Erica from Oslo. Mesa, Arizona, Los Angeles. What's up, Los Angeles? Netherlands. I'll put some of these on this on the stream. Joining from the beach, good place to be on a Friday. Czech Republic. What's up, Patrick? Switzerland. Hello. Hey, Meta. What's up, Meta from Switzerland? We",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:34:43.141846Z"
+    },
+    {
+      "video_id": "Iq442C9IeF0",
+      "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
+      "channel": "COLE MEDIN",
+      "speaker": "Cole Medin",
+      "title": "\ud83d\udd34 The AI Coding Marketplace is Finally LIVE!",
+      "url": "https://www.youtube.com/watch?v=Iq442C9IeF0",
+      "published": "2026-05-15T03:17:26Z",
+      "updated": "2026-05-16T22:48:32Z",
+      "topics": [
+        "Agents and tool use",
+        "AI business and products",
+        "Coding and software",
+        "Frontier models"
+      ],
+      "summary": "COLE MEDIN covers Agents and tool use, AI business and products, Coding and software. Transcript signal: If you want to load your own or if you want to include your own workflow in the marketplace, you can literally like go into the archon repo, open up claude code here and you know I'll go into my speech to text tool and I'll say I have this archon workflow that's at this path here. Now, the author of this poll request, he tried to add it in as a default workflow, which I mean, maybe this would be a good enough to...",
+      "summary_points": [
+        {
+          "point": "Highlights agents and tool use as a key LLM theme in the discussion.",
+          "evidence": "Now, the author of this poll request, he tried to add it in as a default workflow, which I mean, maybe this would be a good enough to add as a default workflow, but I wanted to use this as an example to add our first workflow to the marketplace."
+        },
+        {
+          "point": "Highlights ai business and products as a key LLM theme in the discussion.",
+          "evidence": "If you want to load your own or if you want to include your own workflow in the marketplace, you can literally like go into the archon repo, open up claude code here and you know I'll go into my speech to text tool and I'll say I have this archon workflow..."
+        },
+        {
+          "point": "Highlights coding and software as a key LLM theme in the discussion.",
+          "evidence": "And so really like even before you were only allowed to use your anthropic subscription if it was, you know, like personal usage with the cloud agent SDK, but I wouldn't really call it personal usage with a GitHub action run unless it's like a private..."
+        },
+        {
+          "point": "Highlights frontier models as a key LLM theme in the discussion.",
+          "evidence": "I'm constantly disappointed with Anthropic and their rate limiting um and and their decisions around things like this the past couple of weeks here, past month."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"the workflow\" (76x), \"the marketplace\" (28x), \"the release\" (21x), \"archon workflow\" (17x). Representative caption lines: \"If you want to load your own or if you want to include your own workflow in the marketplace, you can literally like go into the archon repo, open up claude code here and you know I'll go into my speech to text tool and I'll say I have this archon workflow...\" \"Now, the author of this poll request, he tried to add it in as a default workflow, which I mean, maybe this would be a good enough to add as a default workflow, but I wanted to use this as an example to add our first workflow to the marketplace.\"",
+      "creator_positioning": "AI automation, agent building, and practical AI coding workflows.",
+      "llm_landscape_role": "Focuses on applied LLM agents, automations, and production-style AI workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 60448,
+      "transcript_excerpt": "All right, welcome everyone to the next Archon stream. We got the workflow marketplace that is now live and we're going to be shipping a couple workflows to it today. So, I have a workflow that someone actually submitted a poll request for before I had the marketplace. So, I had to change the PR to make it so that it it fits the format to be merged here. but we're going to do that. So, it's going to be the first community workflow that we have added to the Agentic Engineering Marketplace for Archon. So, I'm excited for that. We'll do that in a little bit. One thing I want to start doing with the streams now is I I want to try and let me actually move my camera down so I'm not so low. There we go. I want to like give a little bit of time for people to join before I like really get into the meat of things. Uh just because like whenever I first start a stream, people are like trickling in f",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:35:25.043505Z"
+    },
+    {
+      "video_id": "4hgOD8b56VM",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "channel": "Krish Naik",
+      "speaker": "Krish Naik",
+      "title": "The Most Ideal Job Description For An AI Engineer In 2026",
+      "url": "https://www.youtube.com/watch?v=4hgOD8b56VM",
+      "published": "2026-05-14T07:27:35Z",
+      "updated": "2026-05-15T07:48:00Z",
+      "topics": [
+        "Agents and tool use",
+        "LLM foundations",
+        "Coding and software",
+        "Frontier models"
+      ],
+      "summary": "Krish Naik covers Agents and tool use, LLM foundations, Coding and software. Transcript signal: we keep on changing the syllabus and the syllabus is basically derived from the changes with respect to the job market what is actually required in the industry right and recently I've been talking to many many project managers many many uh managers many many employees who are specifically working in different different companies to just understand what they are currently doing what is the kind of requirements...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: vector databases.",
+          "evidence": "Then you also have you need to have experience with vector databases and embedding models for semantic search."
+        },
+        {
+          "point": "Expands on the video's stated LLM focus: ai engineer.",
+          "evidence": "So this is the most ideal JD that actually be will be existing and I could actually go ahead and see in LinkedIn you guys just go and search for AI engineer jobs AI builders AI generalist 80%age of the JD will match this and trust me if you learn 80%age of..."
+        },
+        {
+          "point": "Expands on the video's stated LLM focus: transformer.",
+          "evidence": "Then you have something called as deep understanding of transformer architecture, attention mechanism and model capabilities."
+        },
+        {
+          "point": "Expands on the video's stated LLM focus: anthropic.",
+          "evidence": "But at the end of the day, if you have this good Python development experience writing code with openAI models or anthropic models, it becomes very easy."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"code you\" (4x), \"the agent\" (4x), \"the code\" (3x), \"the llm\" (3x). Representative caption lines: \"the AI agent they are using a cursor AI agent with your uh you know uh claude model that is opus right and at the end of the day for doing a task in the staging environment you know the AI agent tried to do its best and deleted the entire production...\" \"for implementing things doing things is fine but when we give the larger thing access the AI may will be doing something else where you're given the complete autonomy for the AI to do everything right so that is the scenario where we need to think about...\"",
+      "creator_positioning": "Hands-on data science, machine learning, generative AI, and applied LLM education.",
+      "llm_landscape_role": "Connects LLM concepts to practical data science, RAG, NLP, and developer learning workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 16184,
+      "transcript_excerpt": "Hello all, my name is Krishna and uh welcome to my YouTube channel. So guys in this specific video we are going to talk about a important thing that is nothing but job market right and this video will be specifically important for everyone who is currently working in different different companies. If you really understand this market, you will also be able to understand how you really need to upskill so that you are up to date with the pattern of the jobs that are currently going on. Now why I'm making this specific video? As you all know guys, I have been in this industry from past 13 to 14 years. I have spent huge amount of times. I have amazing connections people working in both product based companies, service based companies. If I consider product based companies like Nvidia, we have AMD, we have Facebook, Meta, I have known many number of people from different different companies i",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:33:28.663071Z"
+    },
+    {
+      "video_id": "Ya51a1EJPZk",
+      "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
+      "channel": "COLE MEDIN",
+      "speaker": "Cole Medin",
+      "title": "Make the PERFECT Videos with Claude Code (Full Workflow)",
+      "url": "https://www.youtube.com/watch?v=Ya51a1EJPZk",
+      "published": "2026-05-14T00:00:24Z",
+      "updated": "2026-05-15T12:41:31Z",
+      "topics": [
+        "Agents and tool use",
+        "Coding and software",
+        "Frontier models",
+        "Multimodal AI"
+      ],
+      "summary": "COLE MEDIN covers Agents and tool use, Coding and software, Frontier models. Transcript signal: Literally just ask your coding agent to set it up and you can have your own AI generated video up and running in less than 10 minutes. There are still some issues with voice inflection, slightly awkward renderings or transitions, but it is getting to the point very quickly where there are some real use cases for AI generated videos, especially just creating explainers for your team or a community, whatever.",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: claude.",
+          "evidence": "It went viral a couple of months ago for really the first tool that had a skill giving Claude code the ability to generate videos wasn't really the most reliable in my experience."
+        },
+        {
+          "point": "Expands on the video's stated LLM focus: llms.",
+          "evidence": "If you were to ask me even a few months ago if LLMs are able to generate full videos with animation and audio end to end, I would have said not yet."
+        },
+        {
+          "point": "Highlights agents and tool use as a key LLM theme in the discussion.",
+          "evidence": "So pretty much the entire workflow can be boiled down into this claude code skill that's wrapped in the archon workflow for parallel execution and durability."
+        },
+        {
+          "point": "Highlights coding and software as a key LLM theme in the discussion.",
+          "evidence": "Literally just ask your coding agent to set it up and you can have your own AI generated video up and running in less than 10 minutes."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"cloud code\" (11x), \"claude code\" (10x), \"the audio\" (9x), \"the video\" (9x). Representative caption lines: \"So obviously Claude Code and then I'm using 11 Labs for my voice, Kokoro if you want something free and then I'm using Archon as the workflow manager to orchestrate everything.\" \"Literally just ask your coding agent to set it up and you can have your own AI generated video up and running in less than 10 minutes.\"",
+      "creator_positioning": "AI automation, agent building, and practical AI coding workflows.",
+      "llm_landscape_role": "Focuses on applied LLM agents, automations, and production-style AI workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 16909,
+      "transcript_excerpt": "If you were to ask me even a few months ago if LLMs are able to generate full videos with animation and audio end to end, I would have said not yet. It's theoretically possible, but you're not going to get the best output. But just like everything else in the AI space, this is changing very quickly. This is what I'm going to show you how to do in this video. But this YouTube short that I'm showing you right here is generated entirely by AI, including audio that I just have muted right now that syncs with all the transitions, everything that you're seeing on the screen. And there's a few different technologies that I've stitched together to make this happen. It's super cool. And the biggest kit on the block here is HyperFrames. This is what lets our AI agents render these scenes and have that editor that I was just showing you. So, this is kind of like Remotion. It went viral a couple of ",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:35:25.135523Z"
+    },
+    {
+      "video_id": "q4rDAu9ggKU",
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "channel": "Matthew Berman",
+      "speaker": "Matthew Berman",
+      "title": "What happened to Anthropic?",
+      "url": "https://www.youtube.com/watch?v=q4rDAu9ggKU",
+      "published": "2026-05-12T19:07:46Z",
+      "updated": "2026-05-14T17:19:35Z",
+      "topics": [
+        "Frontier models",
+        "Coding and software"
+      ],
+      "summary": "Matthew Berman covers Frontier models, Coding and software. Transcript signal: And while I read this, I want you to keep in mind that you as an individual, me as an individual, do not get to participate like big investment companies in one of the biggest value creation events in the history of humanity with the AI boom. It reviews all of the code I commit using AI, and it has caught some serious bugs before I deployed it to production.",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: anthropic.",
+          "evidence": "If someone contacts you unsolicited via email, social media, or messaging apps offering anthropic shares, claims to have exclusive or limited time access to anthropic stock, requests payment via cryptocurrency, wire transfer, or other hardto-race methods,..."
+        },
+        {
+          "point": "Highlights frontier models as a key LLM theme in the discussion.",
+          "evidence": "Any sale or transfer of anthropic stock or any interest in anthropic stock that has not been approved by our board of directors is void and will not be recognized on our books and records."
+        },
+        {
+          "point": "Highlights coding and software as a key LLM theme in the discussion.",
+          "evidence": "It learns how you like to code, your best practices, the syntax you like to use and will actually store these as memories and get better and give you better recommendations as it learns about you and your coding team."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"anthropic shares\" (12x), \"anthropic stock\" (6x), \"access anthropic\" (3x), \"anthropics lawyers\" (2x). Representative caption lines: \"If someone contacts you unsolicited via email, social media, or messaging apps offering anthropic shares, claims to have exclusive or limited time access to anthropic stock, requests payment via cryptocurrency, wire transfer, or other hardto-race methods,...\" \"Any sale or transfer of anthropic stock or any interest in anthropic stock that has not been approved by our board of directors is void and will not be recognized on our books and records.\"",
+      "creator_positioning": "Hands-on AI tooling, open-source model demos, agent workflows, and product experiments.",
+      "llm_landscape_role": "Shows applied usage of LLM tools and agent/product workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 15525,
+      "transcript_excerpt": "No, it's Anthropics lawyers who just put out a notice to everybody who's been buying these shady secondary shares that they are now voided. All right, so there's so much to talk about, including my own personal experience trying to buy secondary anthropic shares, and I want to talk about all of it. And by the way, if you like me breaking down stories just like this, hit the like button, subscribe to the channel. It really does help spread the word. Thank you in advance. So, Anthropic is one of, if not the fastest growing private company of all time. soon potentially to be the biggest monopoly of all time, but I'll save that for another video. Look at this growth. Simply from February of this year, they went from a $300 billion valuation all the way up to above 1 trillion. And here's the thing, back when it was about 300 billion, I actually had the opportunity to purchase these secondary ",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:34:49.488282Z"
+    },
+    {
+      "video_id": "Wh3k3CelSbQ",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "channel": "Krish Naik",
+      "speaker": "Krish Naik",
+      "title": "Taking RAG Pipeline To Production With Caching And Observability",
+      "url": "https://www.youtube.com/watch?v=Wh3k3CelSbQ",
+      "published": "2026-05-12T14:14:01Z",
+      "updated": "2026-05-12T14:14:44Z",
+      "topics": [
+        "LLM foundations",
+        "Agents and tool use",
+        "Frontier models",
+        "Coding and software"
+      ],
+      "summary": "Krish Naik covers LLM foundations, Agents and tool use, Frontier models. Transcript signal: So we are going to use this and why we are using it because see whenever we go ahead and give a query right for a specific query if I go ahead and ask what is AI right and if this rag has this particular information response for the first time it may take some amount of time to get the response but if I again ask this particular question you know this will basically get saved in a cache in radius database itself...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: ai agents.",
+          "evidence": "So better DB I'll search for it and this is what is the website right so uh the first thing is that if you see I have set up my code with respect to rag now I have to go ahead and set up this radish of valky and better db right so for better db you know..."
+        },
+        {
+          "point": "Expands on the video's stated LLM focus: llm.",
+          "evidence": "we will be able to even uh you know identify the rate limiting issues uh that may usually occur with the LLM."
+        },
+        {
+          "point": "Expands on the video's stated LLM focus: rag.",
+          "evidence": "So we are going to use this and why we are using it because see whenever we go ahead and give a query right for a specific query if I go ahead and ask what is AI right and if this rag has this particular information response for the first time it may take..."
+        },
+        {
+          "point": "Highlights llm foundations as a key LLM theme in the discussion.",
+          "evidence": "Uh so here you can go ahead and just go ahead and generate a token so that you can actually use this particular token over here."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"the token\" (13x), \"token check\" (11x), \"the code\" (6x), \"rag application\" (5x). Representative caption lines: \"So better DB I'll search for it and this is what is the website right so uh the first thing is that if you see I have set up my code with respect to rag now I have to go ahead and set up this radish of valky and better db right so for better db you know...\" \"So we are going to use this and why we are using it because see whenever we go ahead and give a query right for a specific query if I go ahead and ask what is AI right and if this rag has this particular information response for the first time it may take...\"",
+      "creator_positioning": "Hands-on data science, machine learning, generative AI, and applied LLM education.",
+      "llm_landscape_role": "Connects LLM concepts to practical data science, RAG, NLP, and developer learning workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 35152,
+      "transcript_excerpt": "Hello all, my name is Krishna and welcome to my YouTube channel. So guys uh in this particular video I'm going to talk about this interesting project on rag wherein my focus will only not be on implementing how a rag application is developed right instead once I have actually developed this entire pipeline what are the important key things you really need to consider while taking this pipeline to production. So we will be discussing about that. So here you can see uh a simple architecture that I have actually defined over here. So I have a rag application let's say a rag pipeline. Here I have some functionalities called as ingest. Then there is a there is another uh important uh API which is called as query. When we are ingesting you know what is basically going to happen right? Whenever we upload any kind of PDFs, we are going to probably do the chunking and along with that particular c",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:33:28.790801Z"
+    },
+    {
+      "video_id": "4azVjKhqDzw",
+      "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
+      "channel": "COLE MEDIN",
+      "speaker": "Cole Medin",
+      "title": "Building the App Store for Agentic Engineering",
+      "url": "https://www.youtube.com/watch?v=4azVjKhqDzw",
+      "published": "2026-05-12T04:02:35Z",
+      "updated": "2026-05-14T23:04:53Z",
+      "topics": [
+        "Agents and tool use",
+        "Coding and software",
+        "Frontier models",
+        "Multimodal AI"
+      ],
+      "summary": "COLE MEDIN covers Agents and tool use, Coding and software, Frontier models. Transcript signal: So, it's going to be a self- evvolving system essentially where you build a workflow, you submit a pull request to the repository to add it to this marketplace here, and then I'll have an automated review process with Claude Code running behind an Archon workflow that we're going to build today. like being here with you guys live and uh just getting to show more like what my actual AI coding process looks like...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: ai coding.",
+          "evidence": "like being here with you guys live and uh just getting to show more like what my actual AI coding process looks like because showing you like how I really work on a dayto-day is a lot easier to do in a live stream than a YouTube video where it has to be..."
+        },
+        {
+          "point": "Highlights agents and tool use as a key LLM theme in the discussion.",
+          "evidence": "So, it's going to be a self- evvolving system essentially where you build a workflow, you submit a pull request to the repository to add it to this marketplace here, and then I'll have an automated review process with Claude Code running behind an Archon..."
+        },
+        {
+          "point": "Highlights coding and software as a key LLM theme in the discussion.",
+          "evidence": "And if you guys follow along with me, you get to just continue to see how I work on a daily basis, what my agent coding workflows really look like."
+        },
+        {
+          "point": "Highlights frontier models as a key LLM theme in the discussion.",
+          "evidence": "I'll I'll let Claude run in the meantime and uh maybe I'll just uh pop into chat for a little bit and uh see what you guys have said so far while we wait for it to run."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"archon workflow\" (63x), \"the workflow\" (46x), \"coding agent\" (34x), \"archon workflows\" (26x). Representative caption lines: \"So, it's going to be a self- evvolving system essentially where you build a workflow, you submit a pull request to the repository to add it to this marketplace here, and then I'll have an automated review process with Claude Code running behind an Archon...\" \"like being here with you guys live and uh just getting to show more like what my actual AI coding process looks like because showing you like how I really work on a dayto-day is a lot easier to do in a live stream than a YouTube video where it has to be...\"",
+      "creator_positioning": "AI automation, agent building, and practical AI coding workflows.",
+      "llm_landscape_role": "Focuses on applied LLM agents, automations, and production-style AI workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 92956,
+      "transcript_excerpt": "All right, welcome everyone to the next live stream. Continuing to do some pretty awesome things with Archon. So, this is going to be all about building out the workflow marketplace for Archon. So, workflow or archon is my open-source harness builder for AI coding. So it allows you to take whatever your process is for agentic engineering and package it up into workflows that you can run reliably and repeatably in parallel on all of your code bases. And right now there's not a super easy way to share the workflows that you build. So we have a lot of workflows that ship with Archon. But then also really like the main way that I recommend using Archon is to build your own workflows. That's why it's a harness builder, not just a harness. And so I want to make it really easy for you to share the workflows that you build with others and vice versa being able to grab workflows that people have ",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:35:31.999385Z"
+    },
+    {
+      "video_id": "xWFnqZp-U3E",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "channel": "Krish Naik",
+      "speaker": "Krish Naik",
+      "title": "Traditional RAG Vs Vectorless RAG-When To Use What?",
+      "url": "https://www.youtube.com/watch?v=xWFnqZp-U3E",
+      "published": "2026-05-09T07:45:27Z",
+      "updated": "2026-05-12T19:27:54Z",
+      "topics": [
+        "LLM foundations",
+        "Safety and alignment",
+        "Research papers"
+      ],
+      "summary": "Krish Naik covers LLM foundations, Safety and alignment, Research papers. Transcript signal: Now based on this match you know nearest vector sometimes you may not get the best search because since we are doing chunking right one of the chunk it'll be available somewhere other chunk will be available somewhere right now in case of vectorless rag here we take this PDF document and we create something called as a llm tree builder and with the help of LLM tree builder it is nothing but it is a it is a...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: embeddings.",
+          "evidence": "First of all, that query is going to get converted into embeddings, right?"
+        },
+        {
+          "point": "Expands on the video's stated LLM focus: llm.",
+          "evidence": "Now based on this match you know nearest vector sometimes you may not get the best search because since we are doing chunking right one of the chunk it'll be available somewhere other chunk will be available somewhere right now in case of vectorless rag..."
+        },
+        {
+          "point": "Expands on the video's stated LLM focus: rag.",
+          "evidence": "Some people started saying that okay in vectorless rag we basically create a JSON structure how do we go ahead and save it you know and uh tell us the differences between vectorless rag and the traditional rag that we usually implemented right so there..."
+        },
+        {
+          "point": "Highlights llm foundations as a key LLM theme in the discussion.",
+          "evidence": "Yes, from a query whatever chunking similarity is basically done that response we can combine it with the uh with our prompt and give it to the LLM right so chunking destroys context like some of the chunking memes miss over here right let's say some..."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"vectorless rag\" (25x), \"traditional rag\" (17x), \"rag and\" (6x), \"vector rag\" (6x). Representative caption lines: \"Some people started saying that okay in vectorless rag we basically create a JSON structure how do we go ahead and save it you know and uh tell us the differences between vectorless rag and the traditional rag that we usually implemented right so there...\" \"the previous traditional rag whatever data it can be if it is not structured go ahead and use vector rag vector rag that basically is traditional vector rag if it has a structure if it is of a specific domain I'd suggest go ahead and use this now let's...\"",
+      "creator_positioning": "Hands-on data science, machine learning, generative AI, and applied LLM education.",
+      "llm_landscape_role": "Connects LLM concepts to practical data science, RAG, NLP, and developer learning workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 23643,
+      "transcript_excerpt": "Hello all, my name is Krishna and welcome to my YouTube channel. So guys, today in this particular video we are going to discuss about a very important topic that is understanding the differences between a traditional rag versus a vectorless rag. Already one month back I had uploaded a detailed video on making you understand about vectorless rag with a library called as page index where we did not do any kind of chunking nor used any kind of vector databases to store the embedding vectors. Right? So we directly went and understood about vectorizer rag and how to specifically implement it. Now once I uploaded this video right in this specific uh comment section we got to see many many many many questions saying that when should be vectorless rag be used for what kind of documents you know for very huge documents it will probably not be that useful. Some people started saying that okay in ",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:33:28.894799Z"
+    },
+    {
+      "video_id": "g31LEVJyGQI",
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "channel": "Matthew Berman",
+      "speaker": "Matthew Berman",
+      "title": "GPT-Realtime-2, Directionally Bad and Agent Memory",
+      "url": "https://www.youtube.com/watch?v=g31LEVJyGQI",
+      "published": "2026-05-07T19:05:47Z",
+      "updated": "2026-05-09T10:02:59Z",
+      "topics": [
+        "Agents and tool use",
+        "LLM foundations",
+        "Research papers",
+        "Frontier models"
+      ],
+      "summary": "Matthew Berman covers Agents and tool use, LLM foundations, Research papers. Transcript signal: I I first saw you um a I think it was a while ago, maybe six nine months ago and I was watching a video that you had made about agent memory and I was just blown away by your depth of knowledge and obviously like technical prowess as well, but um just how well you explained and simply you explained these like very technical topics. But the dreaming mechanism in humans is important for us to be able to remember...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: gpt.",
+          "evidence": "Uh and then we're going to cover this after Richmond comes on, but uh OpenAI just released GPT Realtime 2."
+        },
+        {
+          "point": "Highlights agents and tool use as a key LLM theme in the discussion.",
+          "evidence": "So yeah, that is my read and it's all about operational cost right even for for them and also for us as the AI developers uh reduction of operational cost is where the uh where the the field is heading and agent memory solves it and I and I've been in the..."
+        },
+        {
+          "point": "Highlights llm foundations as a key LLM theme in the discussion.",
+          "evidence": "Um uh it's a it's a paper they have a paper out and it's built by Vectorize and I the CEO actually we jumped on a call a few weeks ago Chris um we I jumped on a call with Chris and uh we're speaking about agent memory and uh we're cooking up some things..."
+        },
+        {
+          "point": "Highlights research papers as a key LLM theme in the discussion.",
+          "evidence": "I think a couple years ago, um, the letter, uh, MEGPT guys, the guys that wrote the MEGPT paper, um, Sarah and Charles, they released a paper called sleep time compute."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"agent memory\" (39x), \"agent memory and\" (11x), \"the llm\" (9x), \"the agent\" (8x). Representative caption lines: \"So yeah, that is my read and it's all about operational cost right even for for them and also for us as the AI developers uh reduction of operational cost is where the uh where the the field is heading and agent memory solves it and I and I've been in the...\" \"Um uh it's a it's a paper they have a paper out and it's built by Vectorize and I the CEO actually we jumped on a call a few weeks ago Chris um we I jumped on a call with Chris and uh we're speaking about agent memory and uh we're cooking up some things...\"",
+      "creator_positioning": "Hands-on AI tooling, open-source model demos, agent workflows, and product experiments.",
+      "llm_landscape_role": "Shows applied usage of LLM tools and agent/product workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 68527,
+      "transcript_excerpt": "All right. Hello. Welcome to the stream. Can everybody hear me? Let me know. Let me know. Hello. Yeah, we're starting with this image by people. Just absolutely terrifying. Can you hear me everybody? I hear you. Sweet. All right. Welcome. Welcome. Let me know where you're watching from while we just enjoy take in what is the majesty of this image. All right. What's up from Brazil, Thailand, Cairo, South Africa, Norway. Awesome. Welcome. We got a lot of people from all over the world. I love that. That's so cool. Romania, awesome. Chrome, Yousef from Belgium. Luca from New York City, George from Philly, Cornell from Hungary. Awesome. Fox on the run, Germany. Dang, we got everybody from all over. Yeah, this uh this image is everything. All right, Portland. Gareth, what's up? Gareth, India, AI, Idorun. Hopefully I'm pronouncing that right. Yeah, so we had some good memes coming out of yeste",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:34:56.850972Z"
+    },
+    {
+      "video_id": "Gtt-xnzoIDc",
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "channel": "Matthew Berman",
+      "speaker": "Matthew Berman",
+      "title": "The Anthropic Situation is INSANE",
+      "url": "https://www.youtube.com/watch?v=Gtt-xnzoIDc",
+      "published": "2026-05-07T18:58:55Z",
+      "updated": "2026-05-14T20:18:38Z",
+      "topics": [
+        "Frontier models",
+        "Coding and software",
+        "LLM foundations",
+        "AI business and products"
+      ],
+      "summary": "Matthew Berman covers Frontier models, Coding and software, LLM foundations. Transcript signal: Now with the official Higsfield MCP server, tools like Claude Co-work, Claude Code, OpenClaw Hermes, and other agents can now create and edit videos, ads, images, dashboards, and landing pages directly from where you're using that agent. Obviously, over the last few months, Anthropic has done a lot to hurt the developer community, to hurt their user base with an absolute lack of transparency, manipulated their...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: anthropic.",
+          "evidence": "Elon Musk just saved Anthropic, which is weird because Elon also runs a competing AI company and has also been one of the most vocal critics of Anthropic and that doesn't really make sense."
+        },
+        {
+          "point": "Highlights frontier models as a key LLM theme in the discussion.",
+          "evidence": "They have a five gigawatt agreement with Google and Broadcom which uh will begin coming online in 2027 which is very interesting because I interviewed uh Thomas Curran who basically said they have enough compute they have enough TPUs to serve the entire..."
+        },
+        {
+          "point": "Highlights coding and software as a key LLM theme in the discussion.",
+          "evidence": "Now with the official Higsfield MCP server, tools like Claude Co-work, Claude Code, OpenClaw Hermes, and other agents can now create and edit videos, ads, images, dashboards, and landing pages directly from where you're using that agent."
+        },
+        {
+          "point": "Highlights llm foundations as a key LLM theme in the discussion.",
+          "evidence": "Obviously, over the last few months, Anthropic has done a lot to hurt the developer community, to hurt their user base with an absolute lack of transparency, manipulated their quotas, reduce the quotas that you get, tried to use the both the stick and the..."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"anthropic and\" (7x), \"cloud code\" (5x), \"basically said\" (5x), \"the anthropic\" (4x). Representative caption lines: \"They have a five gigawatt agreement with Google and Broadcom which uh will begin coming online in 2027 which is very interesting because I interviewed uh Thomas Curran who basically said they have enough compute they have enough TPUs to serve the entire...\" \"Now with the official Higsfield MCP server, tools like Claude Co-work, Claude Code, OpenClaw Hermes, and other agents can now create and edit videos, ads, images, dashboards, and landing pages directly from where you're using that agent.\"",
+      "creator_positioning": "Hands-on AI tooling, open-source model demos, agent workflows, and product experiments.",
+      "llm_landscape_role": "Shows applied usage of LLM tools and agent/product workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 27669,
+      "transcript_excerpt": "I woke up to a tweet this morning that I thought would never happen. Elon Musk just saved Anthropic, which is weird because Elon also runs a competing AI company and has also been one of the most vocal critics of Anthropic and that doesn't really make sense. So, I decided to hop on stream and try to sort it all out. So, the first thing we have to do is just go over the announcements. What is this all about? Obviously, Anthropic partnered with SpaceX and it is like peanut butter and jelly. SpaceX has all the compute, right? They built out, I think they're almost at a million GPUs in their Colossus data center. And Anthropic, on the other hand, made this decision uh a few years ago, specifically Daario, to be more conservative with their capex and not acquire as many possible GPUs. And the reason is, and Daario actually said this, is because he thought if AI demand did not accelerate at a ",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:35:04.893489Z"
+    },
+    {
+      "video_id": "fa3mUy9DHcs",
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "channel": "Matthew Berman",
+      "speaker": "Matthew Berman",
+      "title": "Anthropic x SpaceX!!!!",
+      "url": "https://www.youtube.com/watch?v=fa3mUy9DHcs",
+      "published": "2026-05-06T18:36:03Z",
+      "updated": "2026-05-08T08:11:15Z",
+      "topics": [
+        "Frontier models",
+        "Coding and software",
+        "Agents and tool use",
+        "Open source models"
+      ],
+      "summary": "Matthew Berman covers Frontier models, Coding and software, Agents and tool use. Transcript signal: Obviously, over the last few months, Anthropic has done a lot to hurt the developer community, to hurt their user base because they've with an with an absolute lack of transparency, manipulated their quotas, reduce the quotas that you get, tried to use the both the stick and the carrot, uh, incentivizing you to use Claude subscription quotas after hours, after peak hours, and then lowering quotas during peak...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: anthropic.",
+          "evidence": "Anthropic just made a major announcement, a partnership with SpaceX and really XAI to use their excess compa to use their excess capacity of compute for the anthropic models."
+        },
+        {
+          "point": "Highlights frontier models as a key LLM theme in the discussion.",
+          "evidence": "Claude, or I should say Anthropic is uh having their Claude Code Day, which I was invited to."
+        },
+        {
+          "point": "Highlights coding and software as a key LLM theme in the discussion.",
+          "evidence": "Obviously, over the last few months, Anthropic has done a lot to hurt the developer community, to hurt their user base because they've with an with an absolute lack of transparency, manipulated their quotas, reduce the quotas that you get, tried to use the..."
+        },
+        {
+          "point": "Highlights agents and tool use as a key LLM theme in the discussion.",
+          "evidence": "And the reason is and Daario actually said this is because he thought if AI demand did not accelerate to the rate did not accelerate at a perfect rate they would be putting the entire company at risk."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"anthropic and\" (9x), \"claude code\" (8x), \"the anthropic\" (7x), \"and anthropic\" (6x). Representative caption lines: \"Claude, or I should say Anthropic is uh having their Claude Code Day, which I was invited to.\" \"Obviously, over the last few months, Anthropic has done a lot to hurt the developer community, to hurt their user base because they've with an with an absolute lack of transparency, manipulated their quotas, reduce the quotas that you get, tried to use the...\"",
+      "creator_positioning": "Hands-on AI tooling, open-source model demos, agent workflows, and product experiments.",
+      "llm_landscape_role": "Shows applied usage of LLM tools and agent/product workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 52062,
+      "transcript_excerpt": "All right. Hello. We have some big news today, it looks like. Can everybody hear me? Hello. Hello. All right. Yeah, we got some news. Some big news. Boy, did Anthropic need some good news. What's up everybody? Gareth Hood, James Brown, Marmar Labs. Volume is a bit low. Got it. Let me see if I can work on that. All right. How's that? I turned it up a little bit. Hopefully that helps. I can also just pull the mic closer. Yep. Volume is low. All right, I'll speak up. Perfect. Nurav, thank you. Okay, great. Okay, good, good, good. Yeah. Yeah. So, big news. Uh, I'm going to be recording a video. That's what we'll be doing during this stream. So, appreciate uh if you want to jump in and and tell me if I'm missing any uh any angles to this story. We'll be covering a few stories today. Obviously, I just heard about this. So, we'll be covering this together. Uh recording a video for that. And the",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:35:10.470991Z"
+    },
+    {
+      "video_id": "KYfTKFS7SL0",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "channel": "Krish Naik",
+      "speaker": "Krish Naik",
+      "title": "All You Need To Know About Krish Naik Academy",
+      "url": "https://www.youtube.com/watch?v=KYfTKFS7SL0",
+      "published": "2026-05-05T11:03:03Z",
+      "updated": "2026-05-10T13:53:48Z",
+      "topics": [
+        "Coding and software",
+        "AI business and products",
+        "Agents and tool use",
+        "Multimodal AI"
+      ],
+      "summary": "Krish Naik covers Coding and software, AI business and products, Agents and tool use. Transcript signal: The next batch that we have is something called as 3.0 agentic AI specialization with agent ops. Along with that we have also launched a new product which is called as industry ready projects uh where we have more than 50 to 60 plus industry ready end to end projects specifically who are interested in building AI in their company right so we have done all these things and uh thank you for all your amazing...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: generative ai.",
+          "evidence": "Then uh along with this many many people wanted or gave us a very good feedback about Chris can you bring industry-grade projects right industry grade projects wherein we build AIs and all AI applications you bring gener you build generative AI application..."
+        },
+        {
+          "point": "Highlights coding and software as a key LLM theme in the discussion.",
+          "evidence": "So this is basically for no code who does not h need to have any coding coding prerequisite and you can directly start by using some automation tools wherein you can build workflows cloud code nain so many different kind of frameworks you can actually..."
+        },
+        {
+          "point": "Highlights ai business and products as a key LLM theme in the discussion.",
+          "evidence": "Going forward we are also coming up with some products right like r\u00e9um\u00e9 product uh you know mock interviews product and along with that job product right now see since we are running our academic from past two years we also get a lot of requests from..."
+        },
+        {
+          "point": "Highlights agents and tool use as a key LLM theme in the discussion.",
+          "evidence": "As I said this is like an uh agentic AI specialization batch we are launching 3.2 that also comes in this advanced route wherein we focus on specialization in building AI agents."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"modern code\" (3x), \"video want\" (2x), \"the products\" (2x), \"code route\" (2x). Representative caption lines: \"So this is basically for no code who does not h need to have any coding coding prerequisite and you can directly start by using some automation tools wherein you can build workflows cloud code nain so many different kind of frameworks you can actually...\" \"Then uh along with this many many people wanted or gave us a very good feedback about Chris can you bring industry-grade projects right industry grade projects wherein we build AIs and all AI applications you bring gener you build generative AI application...\"",
+      "creator_positioning": "Hands-on data science, machine learning, generative AI, and applied LLM education.",
+      "llm_landscape_role": "Connects LLM concepts to practical data science, RAG, NLP, and developer learning workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 12801,
+      "transcript_excerpt": "Hello all, my name is Krishna and welcome to my YouTube channel. So guys, uh first of all, I would like to thank everyone for supporting Krishnak Academy. With all the amazing support uh and with all your amazing feedbacks, we were able to bring some amazing courses for everyone. We have been a finest contributor in bringing Udemy courses which are very very affordable. We have also brought lot of live boot camps. Along with that we have also launched a new product which is called as industry ready projects uh where we have more than 50 to 60 plus industry ready end to end projects specifically who are interested in building AI in their company right so we have done all these things and uh thank you for all your amazing feedback all these courses are affordable and we have made sure to bring up more quality as we go ahead you know any new thing that is coming in the industry we are makin",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:33:29.012461Z"
+    },
+    {
+      "video_id": "bTyRYBE4hMM",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "channel": "Krish Naik",
+      "speaker": "Krish Naik",
+      "title": "3- How To Build Agents With Claude Code",
+      "url": "https://www.youtube.com/watch?v=bTyRYBE4hMM",
+      "published": "2026-05-05T07:07:58Z",
+      "updated": "2026-05-13T17:28:39Z",
+      "topics": [
+        "Agents and tool use",
+        "Frontier models"
+      ],
+      "summary": "Krish Naik covers Agents and tool use, Frontier models. Transcript signal: You really need to understand that right and many people you know like when you are specifically using it you know it is basically created as a sub agent itself right so let me again go ahead and ask uh a question over here what is what is uh agents include in claude and why should we use it okay see the reason why I'm showing you because I don't want to create a PPT and show you each and everything you know it...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: claude.",
+          "evidence": "You really need to understand that right and many people you know like when you are specifically using it you know it is basically created as a sub agent itself right so let me again go ahead and ask uh a question over here what is what is uh agents..."
+        },
+        {
+          "point": "Highlights agents and tool use as a key LLM theme in the discussion.",
+          "evidence": "can run three agents in one message concurrently like many number of agents you can run it concurrently specialization each agent has focused a tool set and all and all all the information in them when not to use them you already know the file path just..."
+        },
+        {
+          "point": "Highlights frontier models as a key LLM theme in the discussion.",
+          "evidence": "Now here also you can see built-in agents are like cloud code hi uh guide it is basically using this haiku haq the name is haiku I guess general purpose inherit plan inherit status line setup and all right but our main is basically to create one agent..."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"the agent\" (10x), \"are agents\" (8x), \"sub agent\" (7x), \"agents and\" (6x). Representative caption lines: \"can run three agents in one message concurrently like many number of agents you can run it concurrently specialization each agent has focused a tool set and all and all all the information in them when not to use them you already know the file path just...\" \"what is the importance of agents and uh you know along with that I will also show you how to create a agent itself and how to apply that agent in your project there also some kind of built-in agents that are available I'll not say agent only we can also...\"",
+      "creator_positioning": "Hands-on data science, machine learning, generative AI, and applied LLM education.",
+      "llm_landscape_role": "Connects LLM concepts to practical data science, RAG, NLP, and developer learning workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 18309,
+      "transcript_excerpt": "Hello guys. So we are going to continue the series of understanding the cloud code ecosystem and already in our previous section we have already seen how to go ahead and install the cloud code along with that we have understood the importance of cloudmd file and one task that I have specifically done you know we made a plan of creating a vectorless rag. So here is the Jupyter notebook that is already created. Along with that uh you know we had also told that when you are creating that Jupyter notebook also jol down an entire plan in this plan file. So that thing is also created so that for the reference purpose it can be actually used. Now in this section we are going to discuss about agents and sub aents. Uh we'll understand what agents or sub aents are. How do you go ahead and create those agents from scratch? what is the importance of agents and uh you know along with that I will also",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:33:29.101811Z"
+    },
+    {
+      "video_id": "luBkbzjo-TA",
+      "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
+      "channel": "COLE MEDIN",
+      "speaker": "Cole Medin",
+      "title": "FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI)",
+      "url": "https://www.youtube.com/watch?v=luBkbzjo-TA",
+      "published": "2026-04-30T00:00:50Z",
+      "updated": "2026-05-01T16:53:52Z",
+      "topics": [
+        "Coding and software",
+        "Agents and tool use",
+        "Frontier models",
+        "Research papers"
+      ],
+      "summary": "COLE MEDIN covers Coding and software, Agents and tool use, Frontier models. Transcript signal: Really, it's just you need to have one place to manage your work and organize your work and then one place to work with a large language model to create your code. I have it as a command that I can reference and have the coding agent go through that procedure that I'm using pretty much every single time that I'm delegating the coding to AI.",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: ai coding.",
+          "evidence": "And I'm going to give you a live demonstration of everything here so that you can come out of this one hour knowing exactly what the process looks like that you can mold for yourself to go from idea all the way to production code with the help of AI coding..."
+        },
+        {
+          "point": "Expands on the video's stated LLM focus: claude.",
+          "evidence": "And then I'm going to be using Jira as my place to manage all of the work that we scope out with the help of Claude code."
+        },
+        {
+          "point": "Highlights coding and software as a key LLM theme in the discussion.",
+          "evidence": "I have it as a command that I can reference and have the coding agent go through that procedure that I'm using pretty much every single time that I'm delegating the coding to AI."
+        },
+        {
+          "point": "Highlights agents and tool use as a key LLM theme in the discussion.",
+          "evidence": "So we don't want to do manual prompting as much as possible turn things into something in the AI layer that you can invoke right like we can take a command in skill and say you know slash plan now we are going into our planning process and so that actually..."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"coding agent\" (51x), \"the coding\" (32x), \"the coding agent\" (30x), \"the code\" (23x). Representative caption lines: \"And I'm going to give you a live demonstration of everything here so that you can come out of this one hour knowing exactly what the process looks like that you can mold for yourself to go from idea all the way to production code with the help of AI coding...\" \"And this is important right now because people, they overengineer and over complicate AI coding frameworks all of the time, making it seem like you need some fancy harness or specialized agents just to do any real work at scale.\"",
+      "creator_positioning": "AI automation, agent building, and practical AI coding workflows.",
+      "llm_landscape_role": "Focuses on applied LLM agents, automations, and production-style AI workflows.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 70267,
+      "transcript_excerpt": "What I have for you today is a polished up version of a super valuepacked live workshop that I just did yesterday. I hosted the AI transformation workshop with Leor Weinstein. He's a big name in the AI space. It was a blast. And so what you're about to see is my portion of the event teaching you in very simple terms how to build a foundational system for getting reliable and repeatable results with AI coding assistance. And this is important right now because people, they overengineer and over complicate AI coding frameworks all of the time, making it seem like you need some fancy harness or specialized agents just to do any real work at scale. But that really isn't the case. So I boil things down into the core principles for AI coding here in three phases. Teaching you how to ideulate with coding agents, how to build an iterative loop, and then how to evolve your coding agents over time",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:35:32.197741Z"
+    },
+    {
+      "video_id": "taCVT5vDAk0",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "channel": "Yannic Kilcher",
+      "speaker": "Yannic Kilcher",
+      "title": "TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis)",
+      "url": "https://www.youtube.com/watch?v=taCVT5vDAk0",
+      "published": "2025-12-27T14:33:29Z",
+      "updated": "2026-02-17T07:03:45Z",
+      "topics": [
+        "LLM foundations",
+        "Research papers",
+        "Frontier models"
+      ],
+      "summary": "Yannic Kilcher covers LLM foundations, Research papers, Frontier models. Transcript signal: And this is a really cool paper because it effectively um makes good you or it observes that we don't have full GPU utilization during auto reagive large language model inference um because it's largely memory bound. Um but basically this in summary this model proposes like a hybrid autogressive diffusion language model architecture that nevertheless samples exactly as an auto reagive model would.",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: language models.",
+          "evidence": "So um a couple of things we have to understand before understanding the method that this paper uses and the two things that the paper is coming back to is the auto reggressive models and the diffusion language models."
+        },
+        {
+          "point": "Expands on the video's stated LLM focus: attention.",
+          "evidence": "I keep repeating this in videos because I do feel like it shouldn't go out of collective consciousness that we are doing a pretty serious trade-off here when we are applying causal attention that is seriously restricting the um comp like the what would be..."
+        },
+        {
+          "point": "Highlights llm foundations as a key LLM theme in the discussion.",
+          "evidence": "So I can compute all of them in parallel and if it turns out that indeed the B token is the highest likely for this um given the prefix here the D token is the highest likely for this prefix plus the B token and the A token is the highest likely for this..."
+        },
+        {
+          "point": "Highlights research papers as a key LLM theme in the discussion.",
+          "evidence": "Um but basically this in summary this model proposes like a hybrid autogressive diffusion language model architecture that nevertheless samples exactly as an auto reagive model would."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"small model\" (15x), \"the small model\" (14x), \"next token\" (10x), \"the token\" (10x). Representative caption lines: \"Um but basically this in summary this model proposes like a hybrid autogressive diffusion language model architecture that nevertheless samples exactly as an auto reagive model would.\" \"Um well if I have this suggestion I can just check right I can simply now because I know the future right I can simply check um all of these in parallel like okay given given this prefix what's the likelihood of the B token given this prefix what's the...\"",
+      "creator_positioning": "Research-paper analysis, model architecture critique, open-source AI commentary, and technical debate.",
+      "llm_landscape_role": "Bridges research papers and practitioner interpretation.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 36382,
+      "transcript_excerpt": "Hello. Today we're looking at tidar thinking diffusion talk and auto regression by researchers at Nvidia. And this is a really cool paper because it effectively um makes good you or it observes that we don't have full GPU utilization during auto reagive large language model inference um because it's largely memory bound. So there's going to be times when the GPU isn't fully utilized. And it asks itself, how can we smartly use that extra GPU capacity without having to do the tradeoffs that typically um other systems that are trying to do similar things have. So this is kind of as close to a free lunch as one can get. Basically, you're just uh investing extra electricity um to do some computation, but you do not have to, you know, you don't have to the other trade-offs that are usually involved uh such as with speculative decoding um or block diffusion. We're going into the method in a bit",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:34:25.074279Z"
+    },
+    {
+      "video_id": "v67plFw1nMw",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "channel": "Yannic Kilcher",
+      "speaker": "Yannic Kilcher",
+      "title": "Titans: Learning to Memorize at Test Time (Paper Analysis)",
+      "url": "https://www.youtube.com/watch?v=v67plFw1nMw",
+      "published": "2025-12-14T16:22:15Z",
+      "updated": "2026-04-27T23:39:22Z",
+      "topics": [
+        "LLM foundations",
+        "Research papers",
+        "Open source models",
+        "Frontier models"
+      ],
+      "summary": "Yannic Kilcher covers LLM foundations, Research papers, Open source models. Transcript signal: uh it so it proposes a architecture of a um model u so think of like let's say a language model right that learns to memorize at test time so it can go beyond the current context you can go over a very very long piece of text for example you can slice that into parts and you can go over these parts and you can use this memory to connect to remember stuff from earlier parts and carry them to the next part thereby...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: transformers.",
+          "evidence": "Now what they're saying here is that okay actually linear transformers good in concept like good in principle however um I don't think the softmax has an actually computable function so these the the things that we can do are just kind of approximations to..."
+        },
+        {
+          "point": "Expands on the video's stated LLM focus: attention.",
+          "evidence": "So linear transformers uh there's obviously the basic variant where you just say well instead of doing all that softmax shenanigans let's just make linear operations but then there's also the bit more advanced things that you would find in things like I..."
+        },
+        {
+          "point": "Highlights llm foundations as a key LLM theme in the discussion.",
+          "evidence": "uh it so it proposes a architecture of a um model u so think of like let's say a language model right that learns to memorize at test time so it can go beyond the current context you can go over a very very long piece of text for example you can slice that..."
+        },
+        {
+          "point": "Highlights research papers as a key LLM theme in the discussion.",
+          "evidence": "This is a paper by Google research and has been pushed as part of their Nurips publications."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"linear transformers\" (11x), \"the paper\" (5x), \"token here\" (5x), \"the weights\" (5x). Representative caption lines: \"uh it so it proposes a architecture of a um model u so think of like let's say a language model right that learns to memorize at test time so it can go beyond the current context you can go over a very very long piece of text for example you can slice that...\" \"Now what they're saying here is that okay actually linear transformers good in concept like good in principle however um I don't think the softmax has an actually computable function so these the the things that we can do are just kind of approximations to...\"",
+      "creator_positioning": "Research-paper analysis, model architecture critique, open-source AI commentary, and technical debate.",
+      "llm_landscape_role": "Bridges research papers and practitioner interpretation.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 27028,
+      "transcript_excerpt": "Hello. Today we're going to look at Titans learning to memorize at test time. This is a paper by Google research and has been pushed as part of their Nurips publications. So there's a blog post about it and people posted on social media about it and um I have to admit I just fell for the marketing. So here we are. I got interested in this paper and it is a good paper. uh it so it proposes a architecture of a um model u so think of like let's say a language model right that learns to memorize at test time so it can go beyond the current context you can go over a very very long piece of text for example you can slice that into parts and you can go over these parts and you can use this memory to connect to remember stuff from earlier parts and carry them to the next part thereby overcoming the context window limitations uh that are typically associated with something like transformers. So t",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:34:25.187900Z"
+    },
+    {
+      "video_id": "Nao16-6l6dQ",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "channel": "Yannic Kilcher",
+      "speaker": "Yannic Kilcher",
+      "title": "[Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)",
+      "url": "https://www.youtube.com/watch?v=Nao16-6l6dQ",
+      "published": "2025-11-01T17:39:06Z",
+      "updated": "2026-05-05T11:01:19Z",
+      "topics": [
+        "LLM foundations",
+        "Research papers",
+        "Evaluation and benchmarks",
+        "Coding and software"
+      ],
+      "summary": "Yannic Kilcher covers LLM foundations, Research papers, Evaluation and benchmarks. Transcript signal: Now the question is how does it do that right how does it uh make its because you sample once right when you sample once you get a concrete answer and that concrete answer is like a good review or a bad review and that needs to be internally consistent right you you can say well I like this movie because and then there's reasons why it's good and if you say this movie is bad because that text that follows is a...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: transformer.",
+          "evidence": "Now the question is how does it do that right how does it uh make its because you sample once right when you sample once you get a concrete answer and that concrete answer is like a good review or a bad review and that needs to be internally consistent..."
+        },
+        {
+          "point": "Highlights llm foundations as a key LLM theme in the discussion.",
+          "evidence": "at the at the point when you start generating the tokens you like it's you have all the possibilities right and so the first word might be this right this and then the second one might be movie is and now when you sample the next token right the let's say..."
+        },
+        {
+          "point": "Highlights research papers as a key LLM theme in the discussion.",
+          "evidence": "Now the bad part is during like in your training data you only have movie descriptions and movie reviews you do not have um you you don't you don't necessarily have uh these things here available right you don't have the latent variables and it's not so..."
+        },
+        {
+          "point": "Highlights evaluation and benchmarks as a key LLM theme in the discussion.",
+          "evidence": "So let's assume um let's assume you have you're generating uh cats cat images right so on one hand cat image and on the other hand uh cat and let's say half the cats have sunglasses right so okay this cat has has big sunglasses okay um now what you want to..."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"the encoder\" (23x), \"the decoder\" (21x), \"during training\" (16x), \"the tokens\" (9x). Representative caption lines: \"at the at the point when you start generating the tokens you like it's you have all the possibilities right and so the first word might be this right this and then the second one might be movie is and now when you sample the next token right the let's say...\" \"Now the question is how does it do that right how does it uh make its because you sample once right when you sample once you get a concrete answer and that concrete answer is like a good review or a bad review and that needs to be internally consistent...\"",
+      "creator_positioning": "Research-paper analysis, model architecture critique, open-source AI commentary, and technical debate.",
+      "llm_landscape_role": "Bridges research papers and practitioner interpretation.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 30787,
+      "transcript_excerpt": "Hello there. Today we are looking at the free transformer from France Fur at Farret Meta. This transformer is extending the classic decoderbased transformer with uh a series of latent variables that can be used to kind of make underlying decisions about the sequence to be generated. So for example and that's the example that the paper gives. Let's say you want to train a movie review model. Now any given movie whether it's good or bad will have like good reviews and bad reviews and and just assume for now that these are distinct two groups right there are like I like this movie because of this and this and this and I don't like this movie because of this and this and this. Now if the movie is good you know most of the reviews will be good but some will be bad. If the movie is bad most of the you know reviews will be bad but some will be good. Um but nevertheless right whether your distri",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:34:25.312545Z"
+    },
+    {
+      "video_id": "0bpYCxv2qhw",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "channel": "Yannic Kilcher",
+      "speaker": "Yannic Kilcher",
+      "title": "[Video Response] What Cloudflare's code mode misses about MCP and tool calling",
+      "url": "https://www.youtube.com/watch?v=0bpYCxv2qhw",
+      "published": "2025-10-19T10:58:51Z",
+      "updated": "2026-04-28T22:16:28Z",
+      "topics": [
+        "LLM foundations",
+        "Agents and tool use"
+      ],
+      "summary": "Yannic Kilcher covers LLM foundations, Agents and tool use. Transcript signal: I agree with yes probably framing tool calls as APIs is a lot better and um as Theo also points out a lot of the providers are at least internally already doing this where I have a problem is when it is uh when it comes to that second point that the article makes right here let's listen to it two here the approach really shines when an agent needs to string together multiple calls with the traditional approach...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: mcp.",
+          "evidence": "Hello, this is in many ways a response video to Theo or T3 GGG's video called MCP is the wrong abstraction and it is also a video about this Cloudflare article which that video is about called code mode the better way to use MCP and I want to show you this..."
+        },
+        {
+          "point": "Highlights llm foundations as a key LLM theme in the discussion.",
+          "evidence": "I agree with yes probably framing tool calls as APIs is a lot better and um as Theo also points out a lot of the providers are at least internally already doing this where I have a problem is when it is uh when it comes to that second point that the..."
+        },
+        {
+          "point": "Highlights agents and tool use as a key LLM theme in the discussion.",
+          "evidence": "uh because it's it's it's the LLM is effectively saying no all of this looks perfectly fine if you had given this to me during the execution I would have told you to move forward move along with the plan and if we can somehow get that or or let the LLM..."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"the llm\" (14x), \"the llms\" (3x), \"llm write\" (2x), \"training data\" (2x). Representative caption lines: \"Hello, this is in many ways a response video to Theo or T3 GGG's video called MCP is the wrong abstraction and it is also a video about this Cloudflare article which that video is about called code mode the better way to use MCP and I want to show you this...\" \"I agree with yes probably framing tool calls as APIs is a lot better and um as Theo also points out a lot of the providers are at least internally already doing this where I have a problem is when it is uh when it comes to that second point that the...\"",
+      "creator_positioning": "Research-paper analysis, model architecture critique, open-source AI commentary, and technical debate.",
+      "llm_landscape_role": "Bridges research papers and practitioner interpretation.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 11339,
+      "transcript_excerpt": "Hello, this is in many ways a response video to Theo or T3 GGG's video called MCP is the wrong abstraction and it is also a video about this Cloudflare article which that video is about called code mode the better way to use MCP and I want to show you this article but also point out something that potentially is missed by uh either of these two uh article and the commentary. So here's the core idea of the article voiced by Theo. And that seems to be the direction Cloudflare is leaning into here. As they said, they're trying something different. Converting the MCP tools into Typescript APIs, then asking the LLM to write code to call those APIs instead. The results are striking. We found agents are able to handle many more tools and more complex tools when the tools are presented as a TypeScript API rather than directly. They don't know why this is, but their theories are that this is perh",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:34:30.745034Z"
+    },
+    {
+      "video_id": "zKohTkN0Fyk",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "channel": "Yannic Kilcher",
+      "speaker": "Yannic Kilcher",
+      "title": "[Paper Analysis] On the Theoretical Limitations of Embedding-Based Retrieval (Warning: Rant)",
+      "url": "https://www.youtube.com/watch?v=zKohTkN0Fyk",
+      "published": "2025-10-11T16:07:41Z",
+      "updated": "2026-05-12T21:57:12Z",
+      "topics": [
+        "Research papers",
+        "Evaluation and benchmarks",
+        "Open source models",
+        "Frontier models"
+      ],
+      "summary": "Yannic Kilcher covers Research papers, Evaluation and benchmarks, Open source models. Transcript signal: So they have documents, they have queries and they want to um know whether it is possible um for an embedding model to be so good at assigning vectors to documents and queries that for any given query the relevant documents will be above the non-relevant documents. And this has a huge implications on basically all of AI nowadays, especially AI that works with any sort of data.",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: embeddings.",
+          "evidence": "So, we call these sparse embeddings because they're zero almost everywhere except at the position that correspond to the words that are contained in the document."
+        },
+        {
+          "point": "Expands on the video's stated LLM focus: embedding.",
+          "evidence": "If if you go a bit further than this then you'll know okay these are vectors right so they are uh let's say I don't know what's what's a common embedding dimension so let's say these are 1,024 numbers right and they're always 1 and you can make the inner..."
+        },
+        {
+          "point": "Highlights research papers as a key LLM theme in the discussion.",
+          "evidence": "um they will be like okay we're going to vectorize all the data and then we're going to do nearest neighbor retrieval and then that that's going to solve all our problems that's going to be magic and that is definitely definitely not the case so the paper..."
+        },
+        {
+          "point": "Highlights evaluation and benchmarks as a key LLM theme in the discussion.",
+          "evidence": "And this has a huge implications on basically all of AI nowadays, especially AI that works with any sort of data."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"the paper\" (14x), \"embedding dimension\" (11x), \"embedding based\" (10x), \"based retrieval\" (9x). Representative caption lines: \"um they will be like okay we're going to vectorize all the data and then we're going to do nearest neighbor retrieval and then that that's going to solve all our problems that's going to be magic and that is definitely definitely not the case so the paper...\" \"If if you go a bit further than this then you'll know okay these are vectors right so they are uh let's say I don't know what's what's a common embedding dimension so let's say these are 1,024 numbers right and they're always 1 and you can make the inner...\"",
+      "creator_positioning": "Research-paper analysis, model architecture critique, open-source AI commentary, and technical debate.",
+      "llm_landscape_role": "Bridges research papers and practitioner interpretation.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 38325,
+      "transcript_excerpt": "Hello there. Today we're going to look at on the theoretical limitations of embedding based retrieval. And this paper is really interesting uh because it proves something about embedding based retrieval. So think vector databases in rag and things like this. And the paper proves effectively that there are limitations to what can be retrieved. And this has a huge implications on basically all of AI nowadays, especially AI that works with any sort of data. Or so this paper would have you believe. The title is obviously very very um you know, it's a it's a title that evokes certain feelings. It's a title that demands attention like whoa. We're all doing embedding based retrieval nowadays and there are limitations on it. I will make one change to the title that makes it more accurate and maybe much less impressive. The paper is on the theoretical limitations of embedding based retrieval of r",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:34:36.553358Z"
+    },
+    {
+      "video_id": "v34wHiM5tos",
+      "channel_id": "UCHXa4OpASJEwrHrLeIzw7Yg",
+      "channel": "Nicholas Renotte",
+      "speaker": "Nicholas Renotte",
+      "title": "I Spent 6 Weeks using Reinforcement Learning to Beat This GoDot Game",
+      "url": "https://www.youtube.com/watch?v=v34wHiM5tos",
+      "published": "2025-10-05T10:02:29Z",
+      "updated": "2026-04-23T05:27:12Z",
+      "topics": [
+        "Agents and tool use",
+        "Frontier models",
+        "Coding and software",
+        "Safety and alignment"
+      ],
+      "summary": "Nicholas Renotte covers Agents and tool use, Frontier models, Coding and software. Transcript signal: He's an AI agent that I'm training to beat this level. Right now, Baz only operates on user feedback, but I need to hook him up to the agent.",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: claude.",
+          "evidence": "But when I'm getting tired, I tend to throw my coding problems at Claude, which was just screwing them up even worse."
+        },
+        {
+          "point": "Highlights agents and tool use as a key LLM theme in the discussion.",
+          "evidence": "He's an AI agent that I'm training to beat this level."
+        },
+        {
+          "point": "Highlights frontier models as a key LLM theme in the discussion.",
+          "evidence": "Right now, Baz only operates on user feedback, but I need to hook him up to the agent."
+        },
+        {
+          "point": "Highlights coding and software as a key LLM theme in the discussion.",
+          "evidence": "You know, when you try to code for all the edge cases, yeah, this this just wasn't on the list."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"the agent\" (7x), \"know said\" (2x), \"training script\" (2x). Representative caption lines: \"But when I'm getting tired, I tend to throw my coding problems at Claude, which was just screwing them up even worse.\" \"He's an AI agent that I'm training to beat this level.\"",
+      "creator_positioning": "Project-based machine learning, deep learning, and AI engineering tutorials.",
+      "llm_landscape_role": "Shows practical implementation patterns for AI developers building with Python, ML, and LLM-adjacent tooling.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 9708,
+      "transcript_excerpt": "This is Baz. He's an AI agent that I'm training to beat this level. But right now, he's making some bad life choices. It doesn't look that hard though, right? But if he jumps here, dead. He hits this dead. He runs into this. That's right. No, but if if he goes too far, dead. Here's the thing, though. I'm not going to let Bazer visually see the game. He's going to have to do it all based purely on his senses. Now, this game I've been building is all in good. And by building I mean fog and brackets tutorial. My plan is to train it using a library called stable baselines 3. SB3 is all written in a programming language called Python. So how do I get them to talk? After a bit of research, I actually found this GDO IRL. It solves this problem by allowing GDO games to speak through to SB3. It's actually got really good examples and there's solid documentation. If I run it on a sample, it's almo",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:35:10.594492Z"
+    },
+    {
+      "video_id": "o_MGqeFMAGE",
+      "channel_id": "UCHXa4OpASJEwrHrLeIzw7Yg",
+      "channel": "Nicholas Renotte",
+      "speaker": "Nicholas Renotte",
+      "title": "I trained a Sign Language Detection Transformer (here's how you can do it too!)",
+      "url": "https://www.youtube.com/watch?v=o_MGqeFMAGE",
+      "published": "2025-08-17T10:55:52Z",
+      "updated": "2025-08-19T15:00:27Z",
+      "topics": [
+        "Open source models",
+        "Research papers",
+        "LLM foundations",
+        "Coding and software"
+      ],
+      "summary": "Nicholas Renotte covers Open source models, Research papers, LLM foundations. Transcript signal: This is an object detection model I trained from scratch, detecting different types of sign language signs in real time. After training my first sign language object detection model over 4 years ago, I wanted to give it another crack.",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: deep learning.",
+          "evidence": "This uses a unique algorithm and deep learning architecture called DR to simplify training."
+        },
+        {
+          "point": "Highlights open source models as a key LLM theme in the discussion.",
+          "evidence": "Well, this is where fine-tuning our own model comes in or training our own model."
+        },
+        {
+          "point": "Highlights research papers as a key LLM theme in the discussion.",
+          "evidence": "It's been a couple of years and a couple of dependency issues, but I've gone and rebuilt the entire library completely from scratch using a DR architecture, and there's a whole bunch of setup instructions and all that inside of the GitHub repo."
+        },
+        {
+          "point": "Highlights llm foundations as a key LLM theme in the discussion.",
+          "evidence": "This is an object detection model I trained from scratch, detecting different types of sign language signs in real time."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"the model\" (12x), \"model and\" (7x), \"our training\" (7x), \"pre-trained weights\" (6x). Representative caption lines: \"Well, this is where fine-tuning our own model comes in or training our own model.\" \"This uses a unique algorithm and deep learning architecture called DR to simplify training.\"",
+      "creator_positioning": "Project-based machine learning, deep learning, and AI engineering tutorials.",
+      "llm_landscape_role": "Shows practical implementation patterns for AI developers building with Python, ML, and LLM-adjacent tooling.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 42824,
+      "transcript_excerpt": "This is an object detection model I trained from scratch, detecting different types of sign language signs in real time. But this isn't just any old object detection model. This uses a unique algorithm and deep learning architecture called DR to simplify training. At least that's what the paper said. After training my first sign language object detection model over 4 years ago, I wanted to give it another crack. Given the tech is advanced and some of y'all are finding some slight dependency issues. I'm going to show you how to train your own from scratch in under 40 minutes. But where and how do we get data? And don't deep learning models need massive GPUs and months of training and will this work fast enough for real-time detection? I love reading scientific papers, especially when they hide critical training notes in a single nondescript sentence. This was interesting to get up and wri",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:35:10.760056Z"
+    },
+    {
+      "video_id": "OojcSzWrjsg",
+      "channel_id": "UCHXa4OpASJEwrHrLeIzw7Yg",
+      "channel": "Nicholas Renotte",
+      "speaker": "Nicholas Renotte",
+      "title": "How to Build a Stock Screener AGENT with LangGraph in 30 Minutes (LangGraph Crash Course)",
+      "url": "https://www.youtube.com/watch?v=OojcSzWrjsg",
+      "published": "2025-08-03T06:22:14Z",
+      "updated": "2026-05-05T00:47:22Z",
+      "topics": [
+        "LLM foundations",
+        "Agents and tool use",
+        "Coding and software",
+        "Safety and alignment"
+      ],
+      "summary": "Nicholas Renotte covers LLM foundations, Agents and tool use, Coding and software. Transcript signal: Okay, we're all right so So we're going to llm llm is equal to chat o lama and we need to pass your model and that model is going to be quen. Then we're going to go from lang graph dot checkpoint dotmemory import inmemory saver and then so this is going to be used to associate memory to our uh to our agent and then we're going to from lang chain chain_ama we are going to import chat lama.",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: llm.",
+          "evidence": "Okay, we're all right so So we're going to llm llm is equal to chat o lama and we need to pass your model and that model is going to be quen."
+        },
+        {
+          "point": "Highlights llm foundations as a key LLM theme in the discussion.",
+          "evidence": "This way we have the entire state through one single LLM or agent call."
+        },
+        {
+          "point": "Highlights agents and tool use as a key LLM theme in the discussion.",
+          "evidence": "It turns out that whilst it's not the simplest agent framework to get your head around, there's so much potential to build ultra sophisticated agents with it."
+        },
+        {
+          "point": "Highlights coding and software as a key LLM theme in the discussion.",
+          "evidence": "Then we're going to go from lang graph dot checkpoint dotmemory import inmemory saver and then so this is going to be used to associate memory to our uh to our agent and then we're going to from lang chain chain_ama we are going to import chat lama."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"our llm\" (12x), \"our agent\" (9x), \"day gainers\" (8x), \"llm node\" (7x). Representative caption lines: \"Okay, we're all right so So we're going to llm llm is equal to chat o lama and we need to pass your model and that model is going to be quen.\" \"It turns out that whilst it's not the simplest agent framework to get your head around, there's so much potential to build ultra sophisticated agents with it.\"",
+      "creator_positioning": "Project-based machine learning, deep learning, and AI engineering tutorials.",
+      "llm_landscape_role": "Shows practical implementation patterns for AI developers building with Python, ML, and LLM-adjacent tooling.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 35186,
+      "transcript_excerpt": "In this video, I'm going to give you a crash course on how to build agents using Langraph. Langraph's like the Laboo of the agent world. It's ultra popular and I have no idea why. So, I did some digging. It turns out that whilst it's not the simplest agent framework to get your head around, there's so much potential to build ultra sophisticated agents with it. It can handle humans in the loop, has sophisticated tracing by Langsmith, and supports a ton of LLM and tool providers. I'm going to show you how to build your very own stock screener with it in 30-ish minutes. But, can you use open source LLM? and can we give it memory and where are we getting the finance tools from? I needed to get my head around this for a governance project I'm working on and slapped myself for not learning it earlier. I wanted to share it with you in three quick steps so you can get up to speed. We're going to",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:35:10.892663Z"
+    },
+    {
+      "video_id": "JSyF00725gA",
+      "channel_id": "UCHXa4OpASJEwrHrLeIzw7Yg",
+      "channel": "Nicholas Renotte",
+      "speaker": "Nicholas Renotte",
+      "title": "I trained an AI Model to Detect Trading Candlesticks (from scratch using ViTs)",
+      "url": "https://www.youtube.com/watch?v=JSyF00725gA",
+      "published": "2025-07-27T09:00:04Z",
+      "updated": "2026-04-29T06:59:57Z",
+      "topics": [
+        "Multimodal AI",
+        "LLM foundations",
+        "Coding and software",
+        "Research papers"
+      ],
+      "summary": "Nicholas Renotte covers Multimodal AI, LLM foundations, Coding and software. Transcript signal: I collected over 2,000 labeled images, handlabeled a ton of them, and trained the model from scratch to help speed up the learning for you, and I found a couple of training twists along the way that helped get it across the line. Now, what I want you to do before we actually go and start training the model, taking a look at the data, all of that good stuff is I want to get this up and running on your machine.",
+      "summary_points": [
+        {
+          "point": "Highlights multimodal ai as a key LLM theme in the discussion.",
+          "evidence": "The game plan was to grab a screen grab of a trading chart, chop it up into image patches, and then bang it into a vision transformer."
+        },
+        {
+          "point": "Highlights llm foundations as a key LLM theme in the discussion.",
+          "evidence": "I collected over 2,000 labeled images, handlabeled a ton of them, and trained the model from scratch to help speed up the learning for you, and I found a couple of training twists along the way that helped get it across the line."
+        },
+        {
+          "point": "Highlights coding and software as a key LLM theme in the discussion.",
+          "evidence": "I'm going to copy this and I'm going to jump back into my favorite code terminal which is going to be or favorite IDE which is going to be VS code and I'm going to type in git clone and then paste that repository there."
+        },
+        {
+          "point": "Highlights research papers as a key LLM theme in the discussion.",
+          "evidence": "Now, what I want you to do before we actually go and start training the model, taking a look at the data, all of that good stuff is I want to get this up and running on your machine."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"the model\" (24x), \"our model\" (22x), \"the image\" (12x), \"image patches\" (9x). Representative caption lines: \"I'm going to copy this and I'm going to jump back into my favorite code terminal which is going to be or favorite IDE which is going to be VS code and I'm going to type in git clone and then paste that repository there.\" \"The game plan was to grab a screen grab of a trading chart, chop it up into image patches, and then bang it into a vision transformer.\"",
+      "creator_positioning": "Project-based machine learning, deep learning, and AI engineering tutorials.",
+      "llm_landscape_role": "Shows practical implementation patterns for AI developers building with Python, ML, and LLM-adjacent tooling.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 69122,
+      "transcript_excerpt": "This is a vision transformer I trained from scratch, detecting different types of candlesticks in real time. I wanted to see if I could train a deep learning model to detect five different patterns. The game plan was to grab a screen grab of a trading chart, chop it up into image patches, and then bang it into a vision transformer. I'm going to show you how to do it from scratch in 60 minutes. But do you need a GPU to train it? And how fast does it run on a MacBook? And couldn't I just do this with multimodal LLMs? I collected over 2,000 labeled images, handlabeled a ton of them, and trained the model from scratch to help speed up the learning for you, and I found a couple of training twists along the way that helped get it across the line. I'm going to break it down into four simple stages. The first is to get it up and detecting on your machine in 5 minutes. All righty, guys. So, we ar",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:35:11.077183Z"
+    },
+    {
+      "video_id": "D3pXSkGceY0",
+      "channel_id": "UCHXa4OpASJEwrHrLeIzw7Yg",
+      "channel": "Nicholas Renotte",
+      "speaker": "Nicholas Renotte",
+      "title": "How to Fine Tune your own LLM using LoRA (on a CUSTOM dataset!)",
+      "url": "https://www.youtube.com/watch?v=D3pXSkGceY0",
+      "published": "2025-06-09T04:09:48Z",
+      "updated": "2026-03-15T15:38:46Z",
+      "topics": [
+        "LLM foundations",
+        "Open source models",
+        "Frontier models",
+        "Coding and software"
+      ],
+      "summary": "Nicholas Renotte covers LLM foundations, Open source models, Frontier models. Transcript signal: This is how to fine-tune a large language model so you can get it to do exactly what you want, but for cheap. Now I'm going to use a pretty small LLM for this, namely Llama 3.21B.",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: llm.",
+          "evidence": "We're able to add in the specific knowledge that we need without having to go through the extensive cost or time of retraining all of the existing LLM parameters."
+        },
+        {
+          "point": "Highlights llm foundations as a key LLM theme in the discussion.",
+          "evidence": "This is how to fine-tune a large language model so you can get it to do exactly what you want, but for cheap."
+        },
+        {
+          "point": "Highlights open source models as a key LLM theme in the discussion.",
+          "evidence": "In order to fine-tune the model, we need to update the weights in this white matrix."
+        },
+        {
+          "point": "Highlights frontier models as a key LLM theme in the discussion.",
+          "evidence": "Now I'm going to use a pretty small LLM for this, namely Llama 3.21B."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"our model\" (15x), \"the model\" (14x), \"our llm\" (14x), \"our training\" (10x). Representative caption lines: \"This is how to fine-tune a large language model so you can get it to do exactly what you want, but for cheap.\" \"If you then add these weights to the original pre-trained weights, you're able to get the benefit of a fine-tuned adapter with half the parameter updates of a full fine-tuning run.\"",
+      "creator_positioning": "Project-based machine learning, deep learning, and AI engineering tutorials.",
+      "llm_landscape_role": "Shows practical implementation patterns for AI developers building with Python, ML, and LLM-adjacent tooling.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 69123,
+      "transcript_excerpt": "This is how to fine-tune a large language model so you can get it to do exactly what you want, but for cheap. There are a ton of great LLMs out there, and most of them work pretty well, but they're not all that cheap. Look at this. You need to pay for the privilege. What if we could get it fine-tuned for this and running for this? And what happens when those big LLMs don't quite work? This happens more than you think. It's usually when you've gone down a really specific rabbit hole on a niche topic and no matter how good that LLM is, it loses the plot. little like this. What if you could apply a knowledge cartridge to that LLM and inject the right knowledge for specific use cases? This is what fine-tuning aims to do. But full fine-tuning is costly and it takes time. Laura, a low rank adaptation, is like plugging in a new game card trick. We're able to add in the specific knowledge that w",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:35:17.557396Z"
+    },
+    {
+      "video_id": "T7YkPWpwFD4",
+      "channel_id": "UCPk8m_r6fkUSYmvgCBwq-sw",
+      "channel": "Andrej Karpathy",
+      "speaker": "Andrej Karpathy",
+      "title": "CS231n Winter 2016: Lecture 15: Invited Talk by Jeff Dean",
+      "url": "https://www.youtube.com/watch?v=T7YkPWpwFD4",
+      "published": "2016-03-10T21:01:44Z",
+      "updated": "2026-05-05T02:31:40Z",
+      "topics": [
+        "Research papers",
+        "Multimodal AI",
+        "Frontier models",
+        "Open source models"
+      ],
+      "summary": "Andrej Karpathy covers Research papers, Multimodal AI, Frontier models. Transcript signal: I'd like to point out that what I'll be presenting today is partly my work in collaboration with others and sometimes I'm presenting work done by people in my group uh that I wasn't really involved in but it's joint work with many many people you'll see lots of names throughout the talk so uh take that with a grain of salt uh so what I'm going to tell you about is kind of how Google got to where it is today in...",
+      "summary_points": [
+        {
+          "point": "Highlights research papers as a key LLM theme in the discussion.",
+          "evidence": "N5 Jaguar I'm pretty sure um and I'm definitely sure that's not a car 10 the minus 6th for car 04 you know I'm hedging a bit it could be a lion right uh so that's what a really accurate model will do um so the main idea unfortunately we later discovered..."
+        },
+        {
+          "point": "Highlights multimodal ai as a key LLM theme in the discussion.",
+          "evidence": "I'd like to point out that what I'll be presenting today is partly my work in collaboration with others and sometimes I'm presenting work done by people in my group uh that I wasn't really involved in but it's joint work with many many people you'll see..."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"the image\" (11x), \"the model\" (10x), \"model and\" (10x), \"training data\" (9x). Representative caption lines: \"N5 Jaguar I'm pretty sure um and I'm definitely sure that's not a car 10 the minus 6th for car 04 you know I'm hedging a bit it could be a lion right uh so that's what a really accurate model will do um so the main idea unfortunately we later discovered...\" \"I'd like to point out that what I'll be presenting today is partly my work in collaboration with others and sometimes I'm presenting work done by people in my group uh that I wasn't really involved in but it's joint work with many many people you'll see...\"",
+      "creator_positioning": "Technical, first-principles education on neural networks, transformers, tokenisation, and practical LLM building blocks.",
+      "llm_landscape_role": "Deep technical baseline for understanding how LLMs work under the hood.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 69545,
+      "transcript_excerpt": "I'd like to point out that what I'll be presenting today is partly my work in collaboration with others and sometimes I'm presenting work done by people in my group uh that I wasn't really involved in but it's joint work with many many people you'll see lots of names throughout the talk so uh take that with a grain of salt uh so what I'm going to tell you about is kind of how Google got to where it is today in terms of using deep learning in a lot of different places um the project that uh I'm involved in actually started in 2011 when Andrew in was spending one day a week at Google and I happen to bump into him in the micro kitchen and uh and I said oh what do you were doing he's like I don't know but I haven't figured out yet but big neurl Nets are are interesting I'm like oh that's cool and turns out I'd done an underg thesis on Parallel training of neural Nets like ages ago um I won't",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:33:35.836883Z"
+    },
+    {
+      "video_id": "ekyBklxwQMU",
+      "channel_id": "UCPk8m_r6fkUSYmvgCBwq-sw",
+      "channel": "Andrej Karpathy",
+      "speaker": "Andrej Karpathy",
+      "title": "CS231n Winter 2016: Lecture 14: Videos and Unsupervised Learning",
+      "url": "https://www.youtube.com/watch?v=ekyBklxwQMU",
+      "published": "2016-03-01T09:12:15Z",
+      "updated": "2026-04-30T07:49:02Z",
+      "topics": [
+        "Research papers",
+        "Evaluation and benchmarks",
+        "Open source models",
+        "Frontier models"
+      ],
+      "summary": "Andrej Karpathy covers Research papers, Evaluation and benchmarks, Open source models. Transcript signal: terms of administrative items um everyone should be done with sment 3 now if you're not done I think you're late and you're in trouble uh Milestone grades will be out very soon we're still getting through them and they're basically I think done but we have to double check a few things and we'll send them out okay so in terms of reminding you where we are in the class uh last class we looked very briefly at...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: neural networks.",
+          "evidence": "terms of administrative items um everyone should be done with sment 3 now if you're not done I think you're late and you're in trouble uh Milestone grades will be out very soon we're still getting through them and they're basically I think done but we have..."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"neural networks\" (7x), \"train thing\" (7x), \"train the\" (4x), \"can train\" (4x). Representative caption lines: \"terms of administrative items um everyone should be done with sment 3 now if you're not done I think you're late and you're in trouble uh Milestone grades will be out very soon we're still getting through them and they're basically I think done but we have...\"",
+      "creator_positioning": "Technical, first-principles education on neural networks, transformers, tokenisation, and practical LLM building blocks.",
+      "llm_landscape_role": "Deep technical baseline for understanding how LLMs work under the hood.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 83546,
+      "transcript_excerpt": "terms of administrative items um everyone should be done with sment 3 now if you're not done I think you're late and you're in trouble uh Milestone grades will be out very soon we're still getting through them and they're basically I think done but we have to double check a few things and we'll send them out okay so in terms of reminding you where we are in the class uh last class we looked very briefly at segmentation we looked at some soft detention models soft detention models are a way for uh selectively paying attention to different parts of the image as you're processing it with something like a recurrent neural network so it allows you to Selec pay attention to some parts of the scene and enhance those features and we also talked about spatial Transformer which is this very nice way of basically in a differentiable way cropping parts of an image or of some features uh either in an",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:33:43.126267Z"
+    },
+    {
+      "video_id": "ByjaPdWXKJ4",
+      "channel_id": "UCPk8m_r6fkUSYmvgCBwq-sw",
+      "channel": "Andrej Karpathy",
+      "speaker": "Andrej Karpathy",
+      "title": "CS231n Winter 2016: Lecture 13: Segmentation, soft attention, spatial transformers",
+      "url": "https://www.youtube.com/watch?v=ByjaPdWXKJ4",
+      "published": "2016-02-26T22:12:26Z",
+      "updated": "2026-05-05T17:02:01Z",
+      "topics": [
+        "Multimodal AI",
+        "Research papers",
+        "LLM foundations",
+        "Open source models"
+      ],
+      "summary": "Andrej Karpathy covers Multimodal AI, Research papers, LLM foundations. Transcript signal: so our administrative uh points for today U assignment three is due tonight so who's done that's good uh was it easier than assignment two okay that's good um hopefully gives you more time to work on your projects um so also remember your Milestones were were uh turned in were turned in last week so we're in the process of looking through the Milestones to make sure those are okay and also we're working on...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: neural networks.",
+          "evidence": "so our administrative uh points for today U assignment three is due tonight so who's done that's good uh was it easier than assignment two okay that's good um hopefully gives you more time to work on your projects um so also remember your Milestones were..."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"input image\" (47x), \"image and\" (40x), \"the image\" (31x), \"soft attention\" (22x). Representative caption lines: \"so our administrative uh points for today U assignment three is due tonight so who's done that's good uh was it easier than assignment two okay that's good um hopefully gives you more time to work on your projects um so also remember your Milestones were...\"",
+      "creator_positioning": "Technical, first-principles education on neural networks, transformers, tokenisation, and practical LLM building blocks.",
+      "llm_landscape_role": "Deep technical baseline for understanding how LLMs work under the hood.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 72199,
+      "transcript_excerpt": "so our administrative uh points for today U assignment three is due tonight so who's done that's good uh was it easier than assignment two okay that's good um hopefully gives you more time to work on your projects um so also remember your Milestones were were uh turned in were turned in last week so we're in the process of looking through the Milestones to make sure those are okay and also we're working on assignment two grading so we should have that done sometime this week or early next week uh last time we had a whirlwind tour of uh all the soft all the common software packages that people use for deep learning um and we saw a lot of code on slides and a lot of stepping through code and hopefully that you found that useful for your projects today we're going to talk about two other topics uh we're going to talk about segmentation um within segmentation there are two sub problems seman",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:33:50.616368Z"
+    },
+    {
+      "video_id": "pA4BsUK3oP4",
+      "channel_id": "UCPk8m_r6fkUSYmvgCBwq-sw",
+      "channel": "Andrej Karpathy",
+      "speaker": "Andrej Karpathy",
+      "title": "CS231n Winter 2016: Lecture 11: ConvNets in practice",
+      "url": "https://www.youtube.com/watch?v=pA4BsUK3oP4",
+      "published": "2016-02-18T07:23:55Z",
+      "updated": "2026-05-12T16:32:39Z",
+      "topics": [
+        "Research papers",
+        "Open source models",
+        "Multimodal AI",
+        "LLM foundations"
+      ],
+      "summary": "Andrej Karpathy covers Research papers, Open source models, Multimodal AI. Transcript signal: You know normally with these feed forward networks um they take an they model this feed forward function but these recurrent networks we talked about how they can model um different kinds of sequence problems. both um how you can design efficient architectures using convolutions and also how convolutions are efficiently implemented in practice and then finally we're going to talk about something that usually gets...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: neural networks.",
+          "evidence": "Uh we talked about how these uh recurrent recurrent neural networks can be used for language models and um had some fun showing some sample generated text on what is this Shakespeare and algebraic geometry."
+        },
+        {
+          "point": "Highlights research papers as a key LLM theme in the discussion.",
+          "evidence": "You know normally with these feed forward networks um they take an they model this feed forward function but these recurrent networks we talked about how they can model um different kinds of sequence problems."
+        },
+        {
+          "point": "Highlights open source models as a key LLM theme in the discussion.",
+          "evidence": "With things like dropout or drop connect, you're uh taking random parts of the network and either setting the activations or the weights to zero randomly."
+        },
+        {
+          "point": "Highlights multimodal ai as a key LLM theme in the discussion.",
+          "evidence": "So they actually at training time each training image they resize they first pick a random number resize the whole image so that the shorter side is that number then sample a random 224x 224 crop from the resized image and then use that as their training..."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"the image\" (14x), \"image and\" (10x), \"training time\" (9x), \"the training\" (7x). Representative caption lines: \"So they actually at training time each training image they resize they first pick a random number resize the whole image so that the shorter side is that number then sample a random 224x 224 crop from the resized image and then use that as their training...\" \"um these training examp these new fake training examples will be correlated but it'll still help you train models with with bigger models with less overfitting and this is very very widely used in practice pretty much any CNN you see that's winning...\"",
+      "creator_positioning": "Technical, first-principles education on neural networks, transformers, tokenisation, and practical LLM building blocks.",
+      "llm_landscape_role": "Deep technical baseline for understanding how LLMs work under the hood.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 77613,
+      "transcript_excerpt": "All right. So, I we have a lot of stuff to get through today. So, I'd like to get started. So, today we're going to talk about CNN's in practice and talk about a lot of really low-level sort of implementation details that are really common to get these things to work um when you're actually training things. Uh but first, as usual, we have some administrative stuff to talk about. Um number one is that through a really heroic effort by all the TAs, all the midterms are already graded. So, I you guys should definitely thank them for that. and you can either pick them up after class today or um in any of these office hours that are up here. Um also, uh keep in mind that your project milestones are going to be due tonight at midnight. So, make sure that I hope you've been working on your projects for the last couple for the last week or so and have made some really exciting progress. So, make",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:34:18.766036Z"
+    },
+    {
+      "video_id": "yCC09vCHzF8",
+      "channel_id": "UCPk8m_r6fkUSYmvgCBwq-sw",
+      "channel": "Andrej Karpathy",
+      "speaker": "Andrej Karpathy",
+      "title": "CS231n Winter 2016: Lecture 10: Recurrent Neural Networks, Image Captioning, LSTM",
+      "url": "https://www.youtube.com/watch?v=yCC09vCHzF8",
+      "published": "2016-02-09T04:29:55Z",
+      "updated": "2026-04-22T23:30:44Z",
+      "topics": [
+        "Multimodal AI",
+        "Research papers",
+        "Open source models",
+        "LLM foundations"
+      ],
+      "summary": "Andrej Karpathy covers Multimodal AI, Research papers, Open source models. Transcript signal: test test okay it works okay good we should get started soon so today we'll be talking about recurrent neural networks which is one of my favorite topics one of my favorite models to play with and put into neural networks just everywhere there are a lot of fun to to play with in terms of administrative items recall that your midterm is on Wednesday this one's day you can tell that I'm really excited I don't know...",
+      "summary_points": [
+        {
+          "point": "Expands on the video's stated LLM focus: recurrent neural networks.",
+          "evidence": "test test okay it works okay good we should get started soon so today we'll be talking about recurrent neural networks which is one of my favorite topics one of my favorite models to play with and put into neural networks just everywhere there are a lot of..."
+        }
+      ],
+      "caption_evidence": "Frequent LLM phrases: \"the image\" (21x), \"neural networks\" (19x), \"image and\" (14x), \"recurrent neural networks\" (14x). Representative caption lines: \"test test okay it works okay good we should get started soon so today we'll be talking about recurrent neural networks which is one of my favorite topics one of my favorite models to play with and put into neural networks just everywhere there are a lot of...\"",
+      "creator_positioning": "Technical, first-principles education on neural networks, transformers, tokenisation, and practical LLM building blocks.",
+      "llm_landscape_role": "Deep technical baseline for understanding how LLMs work under the hood.",
+      "summary_method": "python-rule-based",
+      "content_basis": "transcript",
+      "transcript_status": "available",
+      "transcript_source": "serpapi:asr",
+      "transcript_language": "en",
+      "transcript_chars": 75253,
+      "transcript_excerpt": "test test okay it works okay good we should get started soon so today we'll be talking about recurrent neural networks which is one of my favorite topics one of my favorite models to play with and put into neural networks just everywhere there are a lot of fun to to play with in terms of administrative items recall that your midterm is on Wednesday this one's day you can tell that I'm really excited I don't know if you guys are excited you don't look very excited to me but the 7/3 will be out do this Wednesday it's sorry will be out in Wednesday it's due two weeks from now on Monday but I think since we're shifting it I think to Wednesday we plan to have released it today but we're going to be shifting it to roughly Wednesday so we'll probably defer the deadline for it by a few days and assignment two if I'm not mistaken was due on Friday so if you're using three late days then you'd be ",
+      "transcript_error": "",
+      "processed_at": "2026-05-17T09:34:24.892146Z"
+    }
+  ]
+}
