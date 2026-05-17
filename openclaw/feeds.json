@@ -1,0 +1,28 @@
+{
+  "feeds": [
+    {
+      "name": "Krish Naik",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNU_lfiiWBdtULKOw6X0Dig"
+    },
+    {
+      "name": "Andrej Karpathy",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPk8m_r6fkUSYmvgCBwq-sw"
+    },
+    {
+      "name": "Yannic Kilcher",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew"
+    },
+    {
+      "name": "Matthew Berman",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA"
+    },
+    {
+      "name": "Nicholas Renotte",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHXa4OpASJEwrHrLeIzw7Yg"
+    },
+    {
+      "name": "COLE MEDIN",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMwVTLZIRRUyyVrkjDpn4pA"
+    }
+  ]
+}
