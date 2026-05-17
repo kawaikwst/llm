@@ -1,0 +1,52 @@
+{
+  "channels": [
+    {
+      "name": "Krish Naik",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNU_lfiiWBdtULKOw6X0Dig",
+      "primary_speaker": "Krish Naik",
+      "positioning": "Hands-on data science, machine learning, generative AI, and applied LLM education.",
+      "llm_role": "Connects LLM concepts to practical data science, RAG, NLP, and developer learning workflows."
+    },
+    {
+      "name": "Andrej Karpathy",
+      "channel_id": "UCPk8m_r6fkUSYmvgCBwq-sw",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPk8m_r6fkUSYmvgCBwq-sw",
+      "primary_speaker": "Andrej Karpathy",
+      "positioning": "Technical, first-principles education on neural networks, transformers, tokenisation, and practical LLM building blocks.",
+      "llm_role": "Deep technical baseline for understanding how LLMs work under the hood."
+    },
+    {
+      "name": "Yannic Kilcher",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew",
+      "primary_speaker": "Yannic Kilcher",
+      "positioning": "Research-paper analysis, model architecture critique, open-source AI commentary, and technical debate.",
+      "llm_role": "Bridges research papers and practitioner interpretation."
+    },
+    {
+      "name": "Matthew Berman",
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA",
+      "primary_speaker": "Matthew Berman",
+      "positioning": "Hands-on AI tooling, open-source model demos, agent workflows, and product experiments.",
+      "llm_role": "Shows applied usage of LLM tools and agent/product workflows."
+    },
+    {
+      "name": "Nicholas Renotte",
+      "channel_id": "UCHXa4OpASJEwrHrLeIzw7Yg",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHXa4OpASJEwrHrLeIzw7Yg",
+      "primary_speaker": "Nicholas Renotte",
+      "positioning": "Project-based machine learning, deep learning, and AI engineering tutorials.",
+      "llm_role": "Shows practical implementation patterns for AI developers building with Python, ML, and LLM-adjacent tooling."
+    },
+    {
+      "name": "COLE MEDIN",
+      "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMwVTLZIRRUyyVrkjDpn4pA",
+      "primary_speaker": "Cole Medin",
+      "positioning": "AI automation, agent building, and practical AI coding workflows.",
+      "llm_role": "Focuses on applied LLM agents, automations, and production-style AI workflows."
+    }
+  ]
+}
