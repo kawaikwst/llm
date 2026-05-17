@@ -1,0 +1,106 @@
+{
+  "initial_videos_per_channel": 5,
+  "daily_check_videos_per_channel": 3,
+  "site_title": "LLM YouTube Landscape Tracker",
+  "site_description": "Transcript-grounded summaries of popular YouTube videos about large language models.",
+  "update_cron_utc": "0 8 * * *",
+  "topic_keywords": {
+    "LLM foundations": [
+      "llm",
+      "large language model",
+      "language model",
+      "transformer",
+      "token",
+      "pretraining",
+      "post-training",
+      "fine-tuning"
+    ],
+    "Frontier models": [
+      "gpt",
+      "openai",
+      "claude",
+      "anthropic",
+      "gemini",
+      "google",
+      "llama",
+      "mistral",
+      "deepseek",
+      "qwen"
+    ],
+    "Agents and tool use": [
+      "agent",
+      "agents",
+      "tool use",
+      "function calling",
+      "workflow",
+      "automation",
+      "browser",
+      "computer use"
+    ],
+    "Coding and software": [
+      "code",
+      "coding",
+      "programming",
+      "developer",
+      "software",
+      "cursor",
+      "copilot",
+      "repository"
+    ],
+    "Evaluation and benchmarks": [
+      "benchmark",
+      "eval",
+      "evaluation",
+      "leaderboard",
+      "mmlu",
+      "arena",
+      "reasoning",
+      "math"
+    ],
+    "Safety and alignment": [
+      "safety",
+      "alignment",
+      "risk",
+      "guardrail",
+      "policy",
+      "jailbreak",
+      "interpretability"
+    ],
+    "Multimodal AI": [
+      "multimodal",
+      "vision",
+      "image",
+      "audio",
+      "video",
+      "speech",
+      "voice"
+    ],
+    "Open source models": [
+      "open source",
+      "weights",
+      "local model",
+      "hugging face",
+      "fine tune",
+      "fine-tune"
+    ],
+    "AI business and products": [
+      "product",
+      "startup",
+      "enterprise",
+      "pricing",
+      "market",
+      "release",
+      "competition",
+      "business"
+    ],
+    "Research papers": [
+      "paper",
+      "arxiv",
+      "research",
+      "architecture",
+      "dataset",
+      "training run",
+      "scaling law"
+    ]
+  }
+}
