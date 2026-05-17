@@ -1,0 +1,2 @@
+# No runtime third-party packages are required.
+# The tracker uses Python's standard library plus SerpApi hosted transcript retrieval.
